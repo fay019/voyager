@@ -9,6 +9,8 @@ return [
     'delete_bread'           => 'Supprimer le BREAD',
     'delete_bread_conf'      => 'Oui, supprimer le BREAD',
     'delete_bread_quest'     => 'Êtes-vous sûr de vouloir supprimer le BREAD de la table : :table ?',
+    'default_search_key'     => 'Champ de recherche côté serveur par défaut',
+    'default_search_key_ph'  => 'Le champ sera pré-sélectionné pour la recherche côté serveur',
     'edit_bread'             => 'Editer le BREAD',
     'edit_bread_for_table'   => 'Editer le BREAD de la table : :table',
     'error_creating_bread'   => 'Désolé, il semble qu\'il y ait eu un problème pour créer ce BREAD',
